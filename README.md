@@ -34,3 +34,40 @@ Solution:
 
     Find in excel file.
 
+## II. Design a DCM Flyback Converter
+Given:
+
+    Vin = 50V
+    Vout = 12V
+    Iout = 0.5A
+    f = 50kHz (T = 20us)
+    D = 0.5 (Ton = 10us)
+    Krf = 1
+Find: 
+
+    Lpri, Turn Ratio
+Assumption:
+
+    Efficiency = 100%
+Solution:
+
+    Find in excel file.
+    
+## II. Design a CCM Flyback Converter
+Given:
+
+    Vin = 50V
+    Vout = 12V
+    Iout = 0.5A
+    f = 50kHz (T = 20us)
+    D = 0.5 (Ton = 10us)
+    Krf = 0.5
+Find: 
+
+    Lpri, Turn Ratio
+Assumption:
+
+    Efficiency = 100%
+Solution:
+
+    Find in excel file.
