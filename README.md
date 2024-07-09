@@ -34,7 +34,7 @@ Solution:
 
     Find in excel file.
 
-## II. Design a DCM Flyback Converter
+## III. Design a DCM Flyback Converter
 Given:
 
     Vin = 50V
@@ -53,7 +53,7 @@ Solution:
 
     Find in excel file.
     
-## II. Design a CCM Flyback Converter
+## IV. Design a CCM Flyback Converter
 Given:
 
     Vin = 50V
